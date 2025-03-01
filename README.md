@@ -1,6 +1,7 @@
 ```
 MESSAGE FROM 2025
 	This stuff is entirely useless, I made it when I was really skiddy back then in 2023. So yeah.
+	It doesn't even work lmao.
 ```
 
 
